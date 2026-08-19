@@ -9,7 +9,7 @@ This register prevents the portfolio from overstating what was recovered and pre
 | WAV grant analysis | PBIX and operational-impact report | Complete but confidential | Document methodology; fictional rebuild only |
 | EV grant analysis | PBIX, report, dashboard export, and spreadsheet | Complete but confidential | Document methodology; fictional rebuild only |
 | PSV17 OCR | Python source, GUI, workflow, and builds | Sanitised code available | Maintain separate code repository; exclude scans/logs/builds |
-| Football sweepstake | CV description; original source/deployment not recovered | Missing original source | Publish only the clearly labelled reconstruction |
+| Football sweepstake | Public deployment reviewed; original source not recovered | Deployment excluded because it contains identifiable staff and employer information | Publish only the clearly labelled reconstruction |
 | Licence-renewal design | CV description | Original artifact unavailable | Generic design note only |
 | Browser PDF editor | CV description | Original artifact unavailable | Generic security-focused concept note only |
 | Job-search workflow | Tracker, workflow, and scheduled automation state | Working but contains personal/live data | Maintain sanitised sample repository only |
@@ -23,4 +23,3 @@ This register prevents the portfolio from overstating what was recovered and pre
 - **Reconstruction:** A new portfolio-safe implementation based on the described behaviour, not the original internal source.
 
 These labels should remain visible in every future public version.
-

@@ -11,7 +11,7 @@ This repository documents the problem-solving approach, architecture, validation
 | Contact-centre reporting automation | Completed artifacts verified locally | Generic architecture and lessons only |
 | Grant risk and capacity analytics | Completed dashboards/reports verified locally | Fictionalised methodology only |
 | PSV17 OCR and human-review pipeline | Working source verified | [Sanitised code repository](https://github.com/OzzyPyrex/psv17-builder) |
-| Office football sweepstake | Delivery described in CV; original source unavailable | [Portfolio-safe reconstruction](https://github.com/OzzyPyrex/football-sweepstake-dashboard) |
+| Office football sweepstake | Public deployment reviewed; original source not recovered | [Portfolio-safe reconstruction](https://github.com/OzzyPyrex/football-sweepstake-dashboard) |
 | Licence-renewal workflow design | Delivery described in CV; original diagram/source unavailable | Generic workflow pattern only |
 | Browser PDF editor proof of concept | Functional prototype described in CV; original source unavailable | Security-conscious concept note only |
 | AI-assisted job-search workflow | Working files and scheduled workflow verified | [Sanitised tracker repository](https://github.com/OzzyPyrex/AI-Assisted-Job-Search-Tracker) |
@@ -53,4 +53,3 @@ Across the portfolio, the recurring design principles are:
 The original SGS/NTA dashboards, spreadsheets, reports, applicant records, contact identifiers, employee performance data, branding, and internal process materials are deliberately excluded. This repository is not affiliated with or endorsed by SGS, NTA, FIFA, or any other named organisation.
 
 No open-source licence is granted unless a licence file is added later.
-
